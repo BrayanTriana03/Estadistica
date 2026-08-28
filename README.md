@@ -13,9 +13,9 @@ La estadística se utiliza en muchos campos, como **economía**, **publicidad**,
  
 Se diferencia entre **población** y **muestra:**
  
-**Población:** Conjunto total que queremos estudiar.
+ª **Población:** Conjunto total que queremos estudiar.
  
-**Muestra:** Una parte de esa población que se analiza.
+º **Muestra:** Una parte de esa población que se analiza.
  
 Con una **muestra aleatoria** podemos obtener información para hacer inferencias sobre la población.
 #  Metodo rapido para memorizar
